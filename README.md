@@ -2,7 +2,7 @@
 A realtime chat app create with node,express,socket.io,react
 
 
-##how to getting started
+## how to getting started
 
 1. run npm install
 
